@@ -1,7 +1,10 @@
 package list.Pesquisa;
 
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
+
+import list.ordenacao.Pessoa;
 
 public class CatalogoLivros {
 	List<Livro> livros;
